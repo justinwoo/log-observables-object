@@ -1,0 +1,11 @@
+{
+  "name": "log-observables-object",
+  "version": "0.1.0",
+  "description": "simple console logging helper for objects of RxJS Observables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Woo",
+  "license": "MIT"
+}
